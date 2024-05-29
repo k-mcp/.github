@@ -239,7 +239,12 @@
 
 <br>
 
-## 8. 개선 목표
+## 8. 물리 데이터 베이스 모델
+<img width="596" alt="model" src="https://github.com/k-mcp/.github/assets/101847682/5d79c8f2-bde7-4b30-9b51-325cfc9035b3">
+
+<br>
+
+## 9. 개선 목표
 
 - 시간표 시각화 : Timetable API 를 이용해서 강의들을 블럭 단위로 시각화 해서 보여줄 예정
 
